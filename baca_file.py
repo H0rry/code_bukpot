@@ -7,7 +7,7 @@ from pdf2image.exceptions import (
     PDFSyntaxError,
 )
 
-print("holla")
+print("hola")
 
 
 def jalan():
